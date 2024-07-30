@@ -2,9 +2,9 @@
  Museum of Candy Project instructed by Colt Steele.
 
  ## About
-Museum of Candy project code-along from Colt Steele's web developer bootcamp
+Museum of Candy project code-along from Colt Steele's web developer bootcamp.
 
-Goes over CSS grid / flexbox, and making a UI mobile-responsive.
+Goes over CSS grid / flexbox, and making a UI mobile-responsive using Bootstrap.
 
 
  <a name="features"></a>
